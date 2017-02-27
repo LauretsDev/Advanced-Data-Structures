@@ -1,2 +1,3 @@
 # Advanced-Data-Structures
-Implementation of the Graph data structure.
+Implementations of some advanced data structures.
+* Graph
